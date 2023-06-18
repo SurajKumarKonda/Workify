@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Capture it
+Author: Cpr.Sparhelt
+Url: http://www.fontsquirrel.com/fonts/capture-it
+
+Font: Inter
+Author: Rasmus Andersson
+Url: https://www.fontsquirrel.com/fonts/inter
